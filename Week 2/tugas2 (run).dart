@@ -3,7 +3,7 @@ import 'tugas2 (fak).dart';
 import 'tugas2 (AB).dart';
 
 void main() {
-  int number = 100;
+  int number = 10;
 
   print("Hasil Fibonaccinya dari $number adalah = ${fibonacci(number)}");
   print("Hasil Faktorialnya dari $number adalah = ${faktorial(number)}");
