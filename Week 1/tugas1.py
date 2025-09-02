@@ -12,6 +12,6 @@ def faktorial(n):
 try:
     user_input = int(input("Masukkan bilangan bulat non-negatif: "))
     result = faktorial(user_input)
-    print(f"Faktorial dari {user_input} adalah: {result}")
+    print(f"faktorial dari {user_input} adalah: {result}")
 except ValueError:
     print("input tidak valid. Harap masukkan bilangan bulat.")
