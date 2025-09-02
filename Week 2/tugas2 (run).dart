@@ -1,5 +1,5 @@
 import 'tugas2 (fibo).dart';
-import 'tugas2 (fak).dart';
+import 'tugas2 (fakto).dart';
 import 'tugas2 (AB).dart';
 
 void main() {
