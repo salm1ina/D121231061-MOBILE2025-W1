@@ -1,4 +1,4 @@
-String AngkaBine(int n) {
+String AngkaBiner(int n) {
   if (n == 0) {
     return "0";
   }
