@@ -7,5 +7,5 @@ void main() {
 
   print("Hasil Fibonaccinya dari $number adalah = ${fibonacci(number)}");
   print("Hasil Faktorialnya dari $number adalah = ${faktorial(number)}");
-  print("Hasil Angka Biner nya dari $number adalah = ${AngkaBine(number)}");
+  print("Hasil Angka Binernya dari $number adalah = ${AngkaBiner(number)}");
 }
